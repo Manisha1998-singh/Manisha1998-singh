@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi there, I'm Manisha Singh 👋
+Front End Developer | Turning ideas into powerful digital experiences
+🚀 About Me
+I'm a passionate web developer helping businesses and startups craft fast, scalable, and modern digital products. From clean frontend interfaces to solid backend systems — I build end-to-end solutions that work, perform, and scale.
 
-<!--
-**Manisha1998-singh/Manisha1998-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Coding gif
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
+Frontend:
+  
+Animation:
+ 
+Backend:
+ 
+Database:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 What I Do
+
+Create responsive, mobile-first websites & apps
+Build APIs & backend systems
+Integrate smooth animations & motion
+Optimize for performance & scalability
+📊 Most Used Languages
+
+
+
+📫 Let’s Connect
+📧 Email Me • 💼 LinkedIn
