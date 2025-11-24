@@ -1,7 +1,8 @@
 Hi there, I'm Manisha Singh 👋
+---
 Front End Developer | Turning ideas into powerful digital experiences
 🚀 About Me
-I'm a passionate web developer helping businesses and startups craft fast, scalable, and modern digital products. From clean frontend interfaces to solid backend systems — I build end-to-end solutions that work, perform, and scale.
+I'm a passionate web developer helping businesses and startups craft fast, scalable, and modern digital products. From clean frontend interfaces to solid backend systems — I build end-to-end solutions...
 
 Coding gif
 
@@ -13,7 +14,6 @@ Animation:
 Backend:
  
 Database:
- 
 
 🌟 What I Do
 
@@ -22,7 +22,6 @@ Build APIs & backend systems
 Integrate smooth animations & motion
 Optimize for performance & scalability
 📊 Most Used Languages
-
 
 
 📫 Let’s Connect
