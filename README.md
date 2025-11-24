@@ -26,4 +26,5 @@ Optimize for performance & scalability
 
 
 📫 Let’s Connect
-📧 Email Me • 💼 LinkedIn
+📧 Email Me - Manishasinghbca89@gmail.com 
+💼 LinkedIn - https://www.linkedin.com/in/manisha-s-5a88a4195/
