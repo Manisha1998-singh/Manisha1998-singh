@@ -1,29 +1,56 @@
 Hi there, I'm Manisha Singh 👋
 ---
-Front End Developer | Turning ideas into powerful digital experiences
-🚀 About Me
-I'm a passionate web developer helping businesses and startups craft fast, scalable, and modern digital products. From clean frontend interfaces to solid backend systems — I build end-to-end solutions...
+💻 Front End Developer | Turning ideas into powerful digital experiences  
 
-Coding gif
+---
 
-🛠️ Tech Stack
-Frontend:
-  
-Animation:
- 
-Backend:
- 
-Database:
+## 🚀 About Me
 
-🌟 What I Do
+I'm a passionate **Frontend Developer** with experience in building modern, responsive, and user-friendly web applications.  
+I enjoy transforming ideas into real digital products using clean code and modern technologies.
 
-Create responsive, mobile-first websites & apps
-Build APIs & backend systems
-Integrate smooth animations & motion
-Optimize for performance & scalability
-📊 Most Used Languages
+I focus on creating **fast, scalable, and visually appealing interfaces** that improve user experience.
 
+---
 
-📫 Let’s Connect
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Tailwind CSS
+- Bootstrap
+- jQuery
+
+### Animation
+- CSS Animations
+- Framer Motion
+- GSAP
+
+### Backend
+- ASP.NET
+- .NET Core
+- REST APIs
+
+### Database
+- SQL Server
+- Firebase
+
+---
+
+## 🌟 What I Do
+
+✔ Create responsive, mobile-first websites & applications  
+✔ Build modern UI using React  
+✔ Integrate APIs & backend services  
+✔ Add smooth animations & interactive UI  
+✔ Optimize performance and scalability  
+
+---
+
+## 📫 Connect With Me
+
 📧 Email Me - Manishasinghbca89@gmail.com 
 💼 LinkedIn - https://www.linkedin.com/in/manisha-s-5a88a4195/
