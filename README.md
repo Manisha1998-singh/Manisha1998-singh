@@ -12,6 +12,13 @@ I enjoy transforming ideas into real digital products using clean code and moder
 I focus on creating **fast, scalable, and visually appealing interfaces** that improve user experience.
 
 ---
+## 🌟 What I Do
+
+✔ Create responsive, mobile-first websites & applications  
+✔ Build modern UI using React  
+✔ Integrate APIs & backend services  
+✔ Add smooth animations & interactive UI  
+✔ Optimize performance and scalability  
 
 ## 🛠️ Tech Stack
 
