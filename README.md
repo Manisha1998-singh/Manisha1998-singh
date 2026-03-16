@@ -40,13 +40,6 @@ I focus on creating **fast, scalable, and visually appealing interfaces** that i
 
 ---
 
-## 🌟 What I Do
-
-✔ Create responsive, mobile-first websites & applications  
-✔ Build modern UI using React  
-✔ Integrate APIs & backend services  
-✔ Add smooth animations & interactive UI  
-✔ Optimize performance and scalability  
 
 ---
 
