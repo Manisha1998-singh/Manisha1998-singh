@@ -26,7 +26,9 @@ I focus on creating **fast, scalable, and visually appealing interfaces** that i
 - HTML5
 - CSS3
 - JavaScript (ES6+)
+- TypeScript
 - React.js
+- Next.js
 - Tailwind CSS
 - Bootstrap
 - jQuery
