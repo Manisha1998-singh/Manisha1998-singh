@@ -12,7 +12,6 @@
 
 I'm a **Frontend Developer** with ~3 years of experience building modern, responsive, and user-friendly web applications. I focus on creating **fast, scalable, and visually appealing interfaces** using React, Next.js, and TypeScript.
 
-- 🔭 Currently working on **LMS** and **event management** platforms at Aciron Consulting
 - 🌱 Learning: advanced TypeScript, Next.js internals, Prisma, authentication systems (Clerk, NextAuth.js)
 - 📫 Reach me: **Manishasinghbca89@gmail.com**
 
