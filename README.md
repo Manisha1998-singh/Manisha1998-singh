@@ -13,7 +13,7 @@
 I'm a **Frontend Developer** with ~3 years of experience building modern, responsive, and user-friendly web applications. I focus on creating **fast, scalable, and visually appealing interfaces** using React, Next.js, and TypeScript.
 
 - 🌱 Learning: advanced TypeScript, Next.js internals, Prisma, authentication systems (Clerk, NextAuth.js)
-- 📫 Reach me: **Manishasinghbca89@gmail.com**
+- 📫 Reach me: **manishaasinghh8916@gmail.com**
 
 ---
 
@@ -57,5 +57,5 @@ I'm a **Frontend Developer** with ~3 years of experience building modern, respon
 
 ### 📫 Connect With Me
 
-📧 **Manishasinghbca89@gmail.com**
+📧 **manishaasinghh8916@gmail.com**
 💼 [LinkedIn](https://www.linkedin.com/in/manisha-s-5a88a4195/)
